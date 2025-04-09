@@ -1,6 +1,6 @@
 // This changes the title of your site
 
-var sitename = "Unblocked 55"; // Change this to change the name of your website.
+var sitename = "Ripped Off Games"; // Change this to change the name of your website.
 
 // more settings in main.css
 
